@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c89d7a8-7986-4cdc-9194-855b7ae64686" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3cSZLqzgSLpPXHFwY4e80obvV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day12/src/cn/sher6j/java2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\JavaSenior2\day12\src\cn\sher6j\java2" />
+      <recent name="D:\IdeaProjects\JavaSenior2\day11\src" />
+      <recent name="D:\IdeaProjects\JavaSenior2\day10" />
+      <recent name="D:\IdeaProjects\JavaSenior2\day10\libs" />
+      <recent name="D:\IdeaProjects\JavaSenior2\day10\src\cn\sher6j\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OptionalTest.test5">
+    <configuration name="OptionalTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sher6j.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sher6j.java4" />
+      <option name="MAIN_CLASS_NAME" value="cn.sher6j.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sher6j.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sher6j.java4" />
+      <option name="MAIN_CLASS_NAME" value="cn.sher6j.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sher6j.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sher6j.java4" />
+      <option name="MAIN_CLASS_NAME" value="cn.sher6j.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.tets4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sher6j.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sher6j.java4" />
+      <option name="MAIN_CLASS_NAME" value="cn.sher6j.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="tets4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamAPITest2.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.sher6j.java3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.sher6j.java3" />
+      <option name="MAIN_CLASS_NAME" value="cn.sher6j.java3.StreamAPITest2" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OptionalTest.test5" />
+        <item itemvalue="JUnit.OptionalTest.test2" />
+        <item itemvalue="JUnit.OptionalTest.tets4" />
+        <item itemvalue="JUnit.OptionalTest.test3" />
+        <item itemvalue="JUnit.StreamAPITest2.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c89d7a8-7986-4cdc-9194-855b7ae64686" name="Default Changelist" comment="" />
+      <created>1585967718275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585967718275</updated>
+      <workItem from="1585967722261" duration="14553000" />
+      <workItem from="1585995834910" duration="477000" />
+      <workItem from="1585996605230" duration="839000" />
+      <workItem from="1585997463574" duration="87000" />
+      <workItem from="1585997569809" duration="66000" />
+      <workItem from="1585997650681" duration="8185000" />
+      <workItem from="1586052605356" duration="3149000" />
+      <workItem from="1586081751315" duration="6334000" />
+      <workItem from="1586129501252" duration="8068000" />
+      <workItem from="1586147033561" duration="13000" />
+      <workItem from="1586160553812" duration="7581000" />
+      <workItem from="1586173677153" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585968250904">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="380" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1585968250904" />
+    <state x="389" y="209" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585997634823">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="389" y="209" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1585997634823" />
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1586166697759">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586166697759" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586001449795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1586001449795" />
+    <state x="370" y="86" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586001479653">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="86" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1586001479653" />
+    <state x="419" y="81" key="FileChooserDialogImpl" timestamp="1586053891051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586053891051" />
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom" timestamp="1586168142797">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586168142797" />
+    <state width="1237" height="154" key="GridCell.Tab.0.center" timestamp="1586168142796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586168142796" />
+    <state width="1237" height="154" key="GridCell.Tab.0.left" timestamp="1586168142796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586168142796" />
+    <state width="1237" height="154" key="GridCell.Tab.0.right" timestamp="1586168142797">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586168142796" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1586055121251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586055121251" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586173677142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586173677142" />
+    <state x="349" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586129574213">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1586129574213" />
+    <state x="28" y="0" key="new project wizard" timestamp="1586173727826">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1586173727826" />
+    <state x="319" y="187" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586054641760">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="319" y="187" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680@0.0.1280.680" timestamp="1586054641760" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586162665483">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586162665483" />
+  </component>
+</project>
